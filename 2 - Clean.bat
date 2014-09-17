@@ -1,0 +1,1 @@
+cmd /K "gradlew clean --refresh-dependencies"
